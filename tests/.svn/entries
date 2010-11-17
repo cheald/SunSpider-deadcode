@@ -1,0 +1,49 @@
+10
+
+dir
+72173
+http://svn.webkit.org/repository/webkit/trunk/SunSpider/tests
+http://svn.webkit.org/repository/webkit
+
+
+
+2010-08-28T00:05:55.059155Z
+66281
+barraclough@apple.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+268f45cc-cd09-0410-ab3c-d52691b4dbfc
+
+sunspider-0.9.1
+dir
+
+sunspider-0.9
+dir
+
+ubench
+dir
+
+v8-v4
+dir
+
+v8-v5
+dir
+
+v8-v6
+dir
+
+parse-only
+dir
+

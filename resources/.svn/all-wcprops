@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/webkit/!svn/ver/67674/trunk/SunSpider/resources
+END
+sunspider-standalone-compare.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/27411/trunk/SunSpider/resources/sunspider-standalone-compare.js
+END
+sunspider-standalone-driver.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/67674/trunk/SunSpider/resources/sunspider-standalone-driver.js
+END
+driver-TEMPLATE.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/52186/trunk/SunSpider/resources/driver-TEMPLATE.html
+END
+sunspider-analyze-results.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/27194/trunk/SunSpider/resources/sunspider-analyze-results.js
+END
+sunspider-compare-results.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/59370/trunk/SunSpider/resources/sunspider-compare-results.js
+END
+results-TEMPLATE.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/52186/trunk/SunSpider/resources/results-TEMPLATE.html
+END
+TEMPLATE.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/52139/trunk/SunSpider/resources/TEMPLATE.html
+END
